@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angularLab1"
+    }
+  },
+  "defaultProject": "angularLab1",
+  "cli": {
+    "analytics": false
+  }
 }

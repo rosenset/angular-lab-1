@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(#f857a6, #ff5858);
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+}
+
+
+.ToDo{
+    font-family: 'open sans';
+    font-weight: 300;
+}
+
+
+
+ /* .todo-component {
+    background-color: white;
+    width: 60%;
+    margin: 0 auto;
+    font-weight: 300;
+    font-family: sans-serif;
+  }
+  
+  .done {
+    text-decoration: line-through;
+  }
+  
+  .list {
+    list-style-type: none;
+    text-decoration: none;
+  } */
